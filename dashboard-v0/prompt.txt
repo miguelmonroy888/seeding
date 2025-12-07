@@ -1,0 +1,72 @@
+
+Diseña un Panel de Administración (Dashboard) de Apple Music moderno y profesional en modo oscuro. La interfaz debe parecerse al software interno de Apple (con fuente San Francisco limpia, grises oscuros y efectos glassmorphism).
+
+El panel debe mostrar estas **5 métricas críticas** basadas en análisis de bases de datos:
+
+1. Informe de Regalías
+
+Gráfico de barras que muestra el tiempo total de reproducción por artista (en segundos):
+
+- Bad Bunny: 191,456 s
+- Taylor Swift: 80,793 s
+- Feid: 78,439 s
+- Metallica: 70,758 s
+- Ricardo Arjona: 69,322 s
+
+
+2. Top 10 Regional (Guatemala)
+
+Lista elegante con las canciones más escuchadas en Guatemala:
+
+- "Can You Feel the Love Tonight" - Bad Bunny
+- "Only You (And You Alone)" - Ricardo Arjona
+- "The Twist" - Bad Bunny
+- "Cry" - Bad Bunny
+- "Red Red Wine" - Metallica
+- "My Girl" - Feid
+- "Stagger Lee" - Ricardo Arjona
+- "Sweet Home alamaba" - Taylor Swift
+- "On Bended Knee" - Ricardo Arjona
+- "Spirit in the Sky" - Metallica
+
+
+3. Riesgo de Abandono (Zombie Users)
+
+Sección de alerta roja que muestra usuarios Premium sin actividad en 30 días. Incluye ejemplos de usuarios inactivos:
+
+- Alexandrine40 
+- Rickey.Romaguera 
+- Burnice.MacGyver 
+- Dallin53 
+- Arielle_Renner 
+
+
+ 4. Datos Demográficos
+
+Gráfico de distribución (circular o de barras) mostrando los grupos de edad de oyentes de reggaetón:
+
+- Menos de 18 años: 201 usuarios
+- 18-24 años: 518 usuarios
+- 25-34 años: 683 usuarios
+- 35-49 años: 840 usuarios
+- 50 años en adelante: 84 usuarios
+
+
+5. Usuarios Frecuentes
+
+Tabla de clasificación de los principales fans de Bad Bunny que escuchan las canciones más exclusivas del artista, con conteo de reproducciones:
+
+1. Aylin18 - 10 reproducciones
+2. Cristina33 - 10 reproducciones
+3. Eldred94 - 9 reproducciones
+4. Anastacio16 - 9 reproducciones
+5. Darren.Marvin21 - 9 reproducciones
+
+
+ Especificaciones de Diseño:
+
+- Layout: Sistema de cuadrícula en formato de dashboard
+- Componentes: Tarjetas con glassmorphism, tablas profesionales, insignias de rango, gráficos interactivos
+- Tema: Modo oscuro inspirado en Apple Music (negros profundos, grises, rojo como color de acento)
+- Tipografía: San Francisco o equivalente, limpia y minimalista
+- Efectos: Glassmorphism en tarjetas, efectos de hover sutiles, contraste legible
